@@ -1,6 +1,7 @@
 body{
-    background-color: #2c786c;
-    color: #faf5e4;
+    background-color: #373535;
+    color: #F5F5F5;
+    font-family: 'Montserrat', sans-serif;
   }
   table{
     font-size: 1.2rem;
@@ -8,10 +9,16 @@ body{
   tr,td{
     padding: 10px;
   }
-  
+
   hr{
     margin-top: 50px;
   }
-  h1{
+  h3{
       text-align: center;
+      margin-bottom: 4%;
+      margin-top: 2%;
+  }
+  .button{
+
+    margin-left: 47%;
   }
