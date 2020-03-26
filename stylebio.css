@@ -1,0 +1,17 @@
+body{
+    background-color: #2c786c;
+    color: #faf5e4;
+  }
+  table{
+    font-size: 1.2rem;
+  }
+  tr,td{
+    padding: 10px;
+  }
+  
+  hr{
+    margin-top: 50px;
+  }
+  h1{
+      text-align: center;
+  }
